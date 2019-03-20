@@ -1,2 +1,2 @@
 # visual_explore_data_labs
-Visual exploration of public laboratoy data in python
+Visual exploration of public laboratory data in python
