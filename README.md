@@ -12,9 +12,9 @@ This script creates a matrix with some columns for visual exploration of the dat
 
 
 ## linear_regression.py
-This script creates a linear regression model of 2nd degree between 2 variables that were identified in the scater matrix to have some relation.
+This script creates a linear regression model of 2nd degree between 2 variables that were identified in the scatter matrix to have some relation.
 
-Here is a scatter plot of teh data the regression curve in red:
+Here is a scatter plot of the data the regression curve in red:
 
 ![alt text](./images/linear_regression.png)
 
